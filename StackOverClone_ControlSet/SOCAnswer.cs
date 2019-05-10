@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace StackOverClone_ControlSet
 {
-    public partial class UserControl1: UserControl
+    public partial class SOCAnswer: UserControl
     {
-        public UserControl1()
+        public SOCAnswer()
         {
             InitializeComponent();
         }
